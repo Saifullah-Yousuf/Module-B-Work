@@ -1,0 +1,18 @@
+.main{
+  min-height: 600px;
+  max-height: 600px;
+}
+
+.head1{
+  color: white;
+  background-color: #6C757D;
+}
+
+.text01{
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  text-align: left;
+  color: white;
+  width: 25%;
+}
