@@ -1,8 +1,9 @@
 import React from 'react';
-import Login from '../src/Screen/Login/Login'
-import SignUp from '../src/Screen/SignUp/SignUp'
+import { Routes, Route } from 'react-router-dom';
+import Login from '../src/Screen/Login/Login';
+import SignUp from '../src/Screen/SignUp/SignUp';
 import Dashboard from '../src/Screen/Dashboard/Dashboard';
-import { Routes , Route} from 'react-router-dom';
+import SingleCard from '../src/Screen/Single Card/SingleCard';
 
 const App = () => {
   return (
@@ -11,9 +12,10 @@ const App = () => {
         <Route path='/' element={<SignUp />} />
         <Route path='/login' element={<Login />} />
         <Route path='/dashboard' element={<Dashboard />} />
+        <Route path='/singlecard/:id' element={<SingleCard />} />
       </Routes>
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
