@@ -1,0 +1,26 @@
+[debug] [2024-08-21T12:48:58.252Z] ----------------------------------------------------------------------
+[debug] [2024-08-21T12:48:58.257Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\AJ\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2024-08-21T12:48:58.258Z] CLI Version:   13.15.3
+[debug] [2024-08-21T12:48:58.258Z] Platform:      win32
+[debug] [2024-08-21T12:48:58.258Z] Node Version:  v20.15.1
+[debug] [2024-08-21T12:48:58.259Z] Time:          Wed Aug 21 2024 17:48:58 GMT+0500 (Pakistan Standard Time)
+[debug] [2024-08-21T12:48:58.259Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=828072500&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2024-08-21T12:52:13.190Z] ----------------------------------------------------------------------
+[debug] [2024-08-21T12:52:13.202Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\AJ\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2024-08-21T12:52:13.204Z] CLI Version:   13.15.3
+[debug] [2024-08-21T12:52:13.205Z] Platform:      win32
+[debug] [2024-08-21T12:52:13.205Z] Node Version:  v20.15.1
+[debug] [2024-08-21T12:52:13.206Z] Time:          Wed Aug 21 2024 17:52:13 GMT+0500 (Pakistan Standard Time)
+[debug] [2024-08-21T12:52:13.207Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 

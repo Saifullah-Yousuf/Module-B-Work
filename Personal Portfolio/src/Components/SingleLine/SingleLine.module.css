@@ -1,0 +1,22 @@
+.aboutSection {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    width: auto;
+}
+
+.aboutText {
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    white-space: nowrap;
+    color: #018C8D;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.aboutLine {
+    flex-grow: 1;
+    height: 2px;
+    background-color: #018C8D;
+}

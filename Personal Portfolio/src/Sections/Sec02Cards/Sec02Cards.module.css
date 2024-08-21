@@ -1,0 +1,22 @@
+.main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-around;
+    gap: 2rem;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .main {
+        grid-template-columns: 1fr;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .main {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
